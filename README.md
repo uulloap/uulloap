@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @uulloap, it's nice to meet y'all!
-- 👀 Fulbright | MS in Business Analytics @ Bentley University | Data Analyst | ML & AI Enthusiast
-- 🛠️ Technical Toolbox
+# 👋 Hi, I’m Uriel, it's nice to meet y'all!
+### 👀 Fulbright | MS in Business Analytics @ Bentley University | Data Analyst | ML & AI Enthusiast
+
+## 🛠️ Technical Toolbox
 - **Languages & Core Analytics**
 
     - **Python:** Specialist in Pandas, NumPy, Scikit-Learn, and NLTK for NLP.
@@ -29,6 +30,16 @@
     - **Version Control:** Git, GitHub
     - **Environments:** Jupyter Notebooks, RStudio, VS Code
     - **Productivity:** Microsoft Excel (Advanced Modeling), R Markdown, LaTeX (for technical reporting)
+ 
+## 🔗 Live Interactive Report
+- [View the Full Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+- [View the Full Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+- [View the Full Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+- [View the Full Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+- [View the Full Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+- [View the Full Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+
+
 <!---
 uulloap/uulloap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
