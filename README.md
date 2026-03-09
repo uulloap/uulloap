@@ -33,7 +33,7 @@
  
 ## 🔗 Live Interactive Report
 - [Precision Betting: ML-Driven Sports Arbitrage & EV Maximization Report Here](https://uulloap.github.io/sports-betting-arbitrage-ml/)
-- [Regional Unemployment Forecasting & Structural Breakpoint Analysis Report Here](https://urielulloa.github.io/macro-unemployment-forecasting-r/)
+- [Regional Unemployment Forecasting & Structural Breakpoint Analysis Report Here](https://uulloap.github.io/macro-unemployment-forecasting-r/)
 - [Auto-QC: Convolutional Neural Network for Casting Defect Detection Report Here](https://uulloap.github.io/cnn-industrial-defect-detection/)
 - [Heart Disease Segmentation: PCA & Cluster-Based Risk Analysis Report Here](https://uulloap.github.io/heart-disease-risk-segmentation/)
 - [Bank Marketing: Predictive Modeling for Customer Subscriptions Report Here](https://uulloap.github.io/bank-marketing-predictive-modeling/)
